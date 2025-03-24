@@ -1,5 +1,5 @@
 # Data-Fest-2025 
-# 🏅 Project submitted for Notre Dame's DataFest 2025.
+🏅 Project submitted for Notre Dame's DataFest 2025.
 ## GOAL:
 - Analyze markets globally and analyze a specific region to determine what will be the best place to look over.
 
