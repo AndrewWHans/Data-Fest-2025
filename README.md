@@ -24,5 +24,3 @@
 - Git / GitHub
 
 ---
-
-⏳ *More documentation and data visualizations coming post-release clearance.*
