@@ -10,8 +10,6 @@
 - `microtrends.ipynb` – Microeconomic trends modeling.
 - `.gitignore` – Prevents sensitive or restricted files from being tracked.
 
-> ⚠️ Note: Data files have been excluded per competition guidelines. This repository will remain private until public release is permitted (May 2025).
-
 ## 🧠 Key Topics
 - Data cleaning & wrangling
 - Pandas and NumPy
